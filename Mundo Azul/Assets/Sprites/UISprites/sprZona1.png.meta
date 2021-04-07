@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: 4c91be6124889074daf98be25ad854f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2992185619758611418
+    second: sprZona1_0
+  - first:
+      213: -2078947846523483500
+    second: sprZona1_1
+  - first:
+      213: 1736369367566678564
+    second: sprZona1_2
+  - first:
+      213: 141871772436275714
+    second: sprZona1_3
+  - first:
+      213: 762048668805560364
+    second: sprZona1_4
+  - first:
+      213: -5907874609877593760
+    second: sprZona1_5
+  - first:
+      213: 6965518218220472617
+    second: sprZona1_6
+  - first:
+      213: -1198943718988546562
+    second: sprZona1_7
+  - first:
+      213: -4885584613722331702
+    second: sprZona1_8
+  - first:
+      213: -1279924322646937959
+    second: sprZona1_9
+  - first:
+      213: -3774562503833650445
+    second: sprZona1_10
+  - first:
+      213: -1932295701003048093
+    second: sprZona1_11
+  - first:
+      213: -5664517529934715720
+    second: sprZona1_12
+  - first:
+      213: 7338983674750036843
+    second: sprZona1_13
+  - first:
+      213: -7997678711337859025
+    second: sprZona1_14
+  - first:
+      213: -3539438101039860544
+    second: sprZona1_15
+  - first:
+      213: -4426024367216672382
+    second: sprZona1_16
+  - first:
+      213: 6193375442364790205
+    second: sprZona1_17
+  - first:
+      213: 5206924215583441222
+    second: sprZona1_18
+  - first:
+      213: -2405509331693053449
+    second: sprZona1_19
+  - first:
+      213: 2059676801387384627
+    second: sprZona1_20
+  - first:
+      213: -2569413377682348529
+    second: sprZona1_21
+  - first:
+      213: 8298406471566207819
+    second: sprZona1_22
+  - first:
+      213: -2573518944241206850
+    second: sprZona1_23
+  - first:
+      213: -2543653899290805063
+    second: sprZona1_24
+  - first:
+      213: -415200079283316658
+    second: sprZona1_25
+  - first:
+      213: -511082643647733022
+    second: sprZona1_26
+  - first:
+      213: 5608203824057369119
+    second: sprZona1_27
+  - first:
+      213: -4671579607642760992
+    second: sprZona1_28
+  - first:
+      213: -994536002100661246
+    second: sprZona1_29
+  - first:
+      213: 7943691570570208588
+    second: sprZona1_30
+  - first:
+      213: -6842796766044483543
+    second: sprZona1_31
+  - first:
+      213: -6410354672411275780
+    second: sprZona1_32
+  - first:
+      213: -1700566890431709887
+    second: sprZona1_33
+  - first:
+      213: -3326948597477262303
+    second: sprZona1_34
+  - first:
+      213: 4838215163581392256
+    second: sprZona1_35
+  - first:
+      213: 8403373485389275104
+    second: sprZona1_36
+  - first:
+      213: 1972479025130408646
+    second: sprZona1_37
+  - first:
+      213: -3595916860566381397
+    second: sprZona1_38
+  - first:
+      213: -5249552034783676299
+    second: sprZona1_39
+  - first:
+      213: 4424424288065042388
+    second: sprZona1_40
+  - first:
+      213: 5316120717906792944
+    second: sprZona1_41
+  - first:
+      213: 377699240296009850
+    second: sprZona1_42
+  - first:
+      213: -6255773922093250995
+    second: sprZona1_43
+  - first:
+      213: 1033935938775404949
+    second: sprZona1_44
+  - first:
+      213: 7137288922212621766
+    second: sprZona1_45
+  - first:
+      213: 6756522871375969418
+    second: sprZona1_46
+  - first:
+      213: -8520136804613131378
+    second: sprZona1_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprZona1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6248148380f9976d0800000000000000
+      internalID: -2992185619758611418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_1
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1806
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a8765c2f71623e0800000000000000
+      internalID: -2078947846523483500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_2
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1806
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7ea87db2d81810800000000000000
+      internalID: 1736369367566678564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_3
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1806
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20228b710a708f100800000000000000
+      internalID: 141871772436275714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_4
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1806
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f6bd0a37539a00800000000000000
+      internalID: 762048668805560364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_5
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1806
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06152b4f753030ea0800000000000000
+      internalID: -5907874609877593760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290b812aed7aa060800000000000000
+      internalID: 6965518218220472617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1548
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd70043a0f7c5fe0800000000000000
+      internalID: -1198943718988546562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_8
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1548
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac567f2cdaae23cb0800000000000000
+      internalID: -4885584613722331702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_9
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1548
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e2f312c9bcc3ee0800000000000000
+      internalID: -1279924322646937959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_10
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1548
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa7c78b66f0e9bc0800000000000000
+      internalID: -3774562503833650445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_11
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1548
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36be2b43c4b1f25e0800000000000000
+      internalID: -1932295701003048093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4a44481579361b0800000000000000
+      internalID: -5664517529934715720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1290
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bedd1c4ce49d560800000000000000
+      internalID: 7338983674750036843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_14
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1290
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28c007e599820190800000000000000
+      internalID: -7997678711337859025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_15
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1290
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c43903ccc361eec0800000000000000
+      internalID: -3539438101039860544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_16
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1290
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c3d0c94a9392c0800000000000000
+      internalID: -4426024367216672382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_17
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1290
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f7c2a62a43f550800000000000000
+      internalID: 6193375442364790205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410b329cf5b24840800000000000000
+      internalID: 5206924215583441222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_19
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1032
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95c8cf10aed9ed0800000000000000
+      internalID: -2405509331693053449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_20
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1032
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fcec26321759c10800000000000000
+      internalID: 2059676801387384627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_21
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 1032
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f066b16752c975cd0800000000000000
+      internalID: -2569413377682348529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_22
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 1032
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ba18318bcd92370800000000000000
+      internalID: 8298406471566207819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_23
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1032
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b3c1c726094cd0800000000000000
+      internalID: -2573518944241206850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcfb35614023bcd0800000000000000
+      internalID: -2543653899290805063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_25
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 774
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e489a9b4ab9ec3af0800000000000000
+      internalID: -415200079283316658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_26
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 774
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2628e1b0548e8f0800000000000000
+      internalID: -511082643647733022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_27
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 774
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124de81aa754dd40800000000000000
+      internalID: 5608203824057369119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_28
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 774
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e89e7219173b2fb0800000000000000
+      internalID: -4671579607642760992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_29
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 774
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f37e76c2b232f0800000000000000
+      internalID: -994536002100661246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c452a1d5569ad3e60800000000000000
+      internalID: 7943691570570208588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_31
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 516
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9201ab198908901a0800000000000000
+      internalID: -6842796766044483543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_32
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 516
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd09a29368d907a0800000000000000
+      internalID: -6410354672411275780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_33
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 516
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14df6035c6f5668e0800000000000000
+      internalID: -1700566890431709887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_34
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 516
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c3265a0ed44d1d0800000000000000
+      internalID: -3326948597477262303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_35
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 516
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0856d2cae0bc42340800000000000000
+      internalID: 4838215163581392256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef509779a7ce9470800000000000000
+      internalID: 8403373485389275104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_37
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 258
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8ec30937af5b10800000000000000
+      internalID: 1972479025130408646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_38
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 258
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5a14daacb81ec0800000000000000
+      internalID: -3595916860566381397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_39
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 258
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5783ac8dc38d527b0800000000000000
+      internalID: -5249552034783676299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_40
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 258
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d73ab9c276b66d30800000000000000
+      internalID: 4424424288065042388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_41
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 258
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1dded70a7a6c940800000000000000
+      internalID: 5316120717906792944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7057c9357bdd3500800000000000000
+      internalID: 377699240296009850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_43
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ca7a23c60f29a0800000000000000
+      internalID: -6255773922093250995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_44
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 0
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d73f1247495e00800000000000000
+      internalID: 1033935938775404949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_45
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 0
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd50d3b57ebc0360800000000000000
+      internalID: 7137288922212621766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_46
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 0
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cba2101cdf3cd50800000000000000
+      internalID: 6756522871375969418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprZona1_47
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 0
+        width: 734
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e837d43c7b462c980800000000000000
+      internalID: -8520136804613131378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
